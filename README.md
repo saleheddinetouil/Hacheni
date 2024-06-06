@@ -116,11 +116,3 @@
 * **Resources:**
     * [SQLx Documentation](https://docs.rs/sqlx/) - Comprehensive documentation and examples for SQLx.
     * [PostgreSQL Documentation](https://www.postgresql.org/docs/) - Useful for understanding database concepts.
-
-**Key Points**
-
-* **Start Simple:** Begin with basic asynchronous examples and basic multi-threading exercises.
-* **Break Down the Problem:**  Divide the tasks into smaller, manageable parts.
-* **Use the Rust Documentation:** The official Rust documentation is your best friend! It contains detailed information and examples.
-
-Let me know if you have any specific questions about any of the concepts or want help with code examples. I'm here to assist you! 

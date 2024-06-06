@@ -1,7 +1,5 @@
 # Hacheni
 
-It looks like you're tasked with learning about asynchronous programming and multi-threading in Rust, along with some basic database interaction. Here's a breakdown of how to tackle this assignment, along with some resources to help you:
-
 **1. Async Programming in Rust**
 
 * **What is Asynchronous Programming?**
